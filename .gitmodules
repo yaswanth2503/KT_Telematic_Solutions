@@ -1,5 +1,5 @@
-[submodule "learnings"]
-    path = learnings
+[submodule "Learnings"]
+    path = Learnings
     url = https://github.com/yaswanth2503/Learnings.git
 [submodule "Projects"]
 	path = Projects
