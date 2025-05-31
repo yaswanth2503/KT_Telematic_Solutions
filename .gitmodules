@@ -4,3 +4,7 @@
 [submodule "Projects"]
 	path = Projects
 	url = https://github.com/yaswanth2503/Projects.git
+
+[submodule "Warranty_Tracker"]
+	path = Projects/Warranty_Tracker
+	url = https://github.com/yaswanth2503/Warranty_Tracker.git
