@@ -1,3 +1,3 @@
-[submodule "submodules/Learnings"]
-	path = submodules/Learnings
+[submodule "Learnings"]
+	path = Learnings
 	url = https://github.com/yaswanth2503/Learnings.git
